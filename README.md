@@ -1,5 +1,5 @@
 Prepared for S.T. Yau High School Science Award 2022
 
-xxx.ipynb 内容
+Authors: Yuxin Liu, Qiyao Tang, and Junbo Yan
 
-xxx.ipynb 内容
+High School Affiliated to Nanjing Normal University
